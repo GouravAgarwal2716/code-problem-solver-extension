@@ -17,11 +17,10 @@ A smart Chrome extension that auto-detects programming problems when you copy th
 
 ## 📸 Screenshot
 
-> Preview of the extension popup
-
 <p align="center">
-  <img src="screenshot/screenshotexe.png" alt="Extension Popup UI" width="400">
+  <img src="screenshots/screenshotexe.png" alt="Extension Popup UI" width="400">
 </p>
+
 
 ---
 
